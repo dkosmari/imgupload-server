@@ -43,4 +43,4 @@ web pages were optimized for the Wii U's gamepad screen.
 ## Security
 
 There is NO SECURITY implemented in this server. Anyone can upload anything they want. DO
-NOT leave this server exposed to the internet.
+NOT leave this server exposed to the internet, nor to your roommates.
