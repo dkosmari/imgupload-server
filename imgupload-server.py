@@ -1,5 +1,12 @@
 #!/bin/env python3
 
+# imgupload-server - A simple web server to accept image uploads.
+#
+# Copyright (C) 2024  Daniel K. O.
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+
 import cherrypy
 import datetime
 import os
