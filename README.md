@@ -22,7 +22,7 @@ web pages were optimized for the Wii U's gamepad screen.
    
 3. Tap **Browse**, select a screen (TV or gamepad), then tap **Upload**.
 
-4. The image will be uploaded to the webserver, inside the directory `uploads`.
+4. The image will be uploaded to the web server, inside the directory `uploads`.
 
 
 ## Usage (without `virtualenv`)
